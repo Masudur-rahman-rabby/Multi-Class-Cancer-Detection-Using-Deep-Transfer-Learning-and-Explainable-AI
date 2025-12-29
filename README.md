@@ -176,5 +176,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Md. Masudur Rahman Rabby
-Department of Computer Science and Engineering
+- Md. Masudur Rahman Rabby
+- Department of Computer Science and Engineering
