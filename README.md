@@ -1,4 +1,5 @@
-# Multi-Cancer Detection and Classification using Deep Learning
+# Multi Class Cancer Detection Using Deep Transfer Learning and Explainable AI
+
 
 This repository presents a deep learning–based framework for **automated multi-class cancer detection** from medical images. The system classifies **Blood Cancer, Lung Cancer, and Skin Cancer** using state-of-the-art convolutional neural networks with **transfer learning, rigorous evaluation, and explainable AI (Grad-CAM)**.
 
